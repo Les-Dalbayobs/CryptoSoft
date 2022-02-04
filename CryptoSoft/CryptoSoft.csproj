@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <ApplicationIcon></ApplicationIcon>
+    <ApplicationIcon>encrypted.ico</ApplicationIcon>
     <Win32Resource />
     <Company>Les-Dalbayobs</Company>
     <PackageProjectUrl>https://github.com/Les-Dalbayobs/CryptoSoft</PackageProjectUrl>
